@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Chienhuycu
+- Kinda a nerd who like Robots, Transformers and Programming. 
+- Hope we can be friend
