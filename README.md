@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @Chienhuycu
-- Kinda a nerd who like Robots, Transformers and Programming. 
-- Hope we can be friend
+- int ChienHuyCU(void)
+- if Hostile = True
+- {Skip}
+- Else
+- {printf("Let's be friend")}
+- return 0
