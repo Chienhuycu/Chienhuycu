@@ -1,6 +1,8 @@
+-#include Hostile.h
+-
 - int ChienHuyCU(void)
-- if Hostile = True
+- if Hostile = True;
 - {Skip}
 - Else
-- {printf("Let's be friend")}
-- return 0
+- {printf("Let's be friend");}
+- return 0;
